@@ -142,4 +142,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributors
 
-- [Your Name] - Initial work
+mokh (previously known as mostafa)
+ace (previously known as marwan)
+seer (previously known as owais)
+kordy (previously known as hana)
