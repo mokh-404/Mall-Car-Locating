@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Mall Car Locator is an AI-powered license plate recognition system that helps mall visitors locate their parked vehicles efficiently. The system uses OCR (Optical Character Recognition) technology to extract Arabic letters from license plates and provides an intuitive interface for both administrators and users.
+The Mall Car Locator is an AI-powered license plate recognition system that helps mall visitors locate their parked vehicles efficiently. The system uses OCR (Optical Character Recognition) technology to extract Arabic letters from license plates and provides an intuitive interface for both administrators and users. This application solves the common problem of forgetting where you parked in large shopping malls by providing a simple way to register and locate vehicles.
 
 ## Features
 
